@@ -1,0 +1,171 @@
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.icelandimg {
+    width: 130px;
+    height: auto;
+    float: right;
+}
+
+div#mainindex {
+    background-color: lightpink;
+    border: solid black;
+    position: relative;
+    color: white;
+    padding: 20px 10px 20px 20px;
+}
+
+.iceland3 {
+    width: 350px;
+    height: auto;
+    border: solid blue;
+}
+
+.floatright {
+    float: right;
+}
+
+.iceland1img {
+    width: 350px;
+    height: auto;
+    border: solid blue;
+}
+
+.phoneimg {
+    width: 20%;
+    height: 40px;
+    background-color: aqua;
+    float: left;
+
+
+}
+
+.phoneimg > img {
+    width: 100%;
+    height: 100%;
+}
+
+.phonenum {
+    background-color: red;
+    height: 30px;
+    width: 80%;
+    padding-top: 10px;
+
+}
+
+.phonenum > span {
+    padding-top: 10px;
+}
+
+/* main pink box */
+
+.pinkbox {
+    height: 200px;
+    width: 900px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 2px;
+    padding: 2px 20px 12px 20px;
+    
+
+}
+
+.activityrow {
+    height: 40%;
+
+
+}
+/* 
+.activity2row {
+    background-color: rgb(181, 170, 240);
+
+} */
+
+.imgbox {
+    background-image: url(images/photos/northern1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 259px;
+    height: 198px;
+    float: left;
+    margin: auto 2%;
+    border: solid black 2px;
+
+}
+
+.infobox {
+    background-color: bisque;
+    width: 259px;
+    height: 194px;
+    float: left;
+    border: solid blue 5px;
+    padding: 2px;
+}
+
+.imgbox2 {
+    background-image: url(images/photos/northern3.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 259px;
+    height: 198px;
+    float: left;
+    margin: auto 2%;
+    border: solid black 2px;
+}
+
+/* 
+nav > a {
+    text-decoration: none;
+    background: aqua;
+    color: white;
+    border-radius: 50px;
+    width: 100px;
+    margin-top: 50%;
+
+}
+
+nav > a:hover {
+    color: blueviolet;
+    background-color: lightgoldenrodyellow;
+}
+
+li{list-style-type: none;} */
+
+.center {
+    text-align: center;
+}
+
+.imgbox3 {
+    background-image: url(images/photos/hiking1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 259px;
+    height: 194px;
+    float: left;
+    margin: auto 2%;
+    border: solid black 2px;
+
+}
+
+.infobox2 {
+    background-color: bisque;
+    width: 259px;
+    height: 194px;
+    float: left;
+    border: solid blue 5px;
+    padding: 2px;
+}
+
+.imgbox4 {
+    background-image: url(images/photos/hiking3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 259px;
+    height: 194px;
+    float: left;
+    margin: auto 2%;
+    border: solid black 2px;
+}
